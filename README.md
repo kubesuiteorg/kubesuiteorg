@@ -1,4 +1,4 @@
-# Hi there 👋, Welcome to KubeSuite!
+# Hi there 👋, Welcome to [KubeSuite](https://kubesuite.org)!
 
 # ![KubeSuite Logo](https://drive.google.com/uc?export=view&id=1IoxG7LzyBPyGBfjRc1w3gGb_a7nraJ97)
 
@@ -19,5 +19,3 @@ Here’s a quick look at our key repositories:
 
 ### Community
 We value our community and encourage your participation! Connect with us on LinkedIn or join us on Slack to share your thoughts and collaborate with us.
-
-Visit us at [KubeSuite.org](https://kubesuite.org) to learn more!
