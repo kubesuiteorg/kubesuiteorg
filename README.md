@@ -12,10 +12,10 @@ We invite you to explore our GitHub organization to engage with our projects and
 
 ### Our Repositories
 Here’s a quick look at our key repositories:
-* KubeReport: The main repository for our innovative reporting tool, enhancing visibility and control in Kubernetes environments.
-* KubeReport Helm Chart: The Helm chart for seamless deployment of KubeReport in your Kubernetes cluster.
-* Documentation: Access our official documentation to discover features and best practices at KubeSuite Documentation.
+* [KubeReport](https://github.com/kubesuiteorg/kubereport): The main repository for our innovative reporting tool, enhancing visibility and control in Kubernetes environments.
+* [KubeReport Helm Chart](https://github.com/kubesuiteorg/kubereport-helm-chart): The Helm chart for seamless deployment of KubeReport in your Kubernetes cluster.
+* [Documentation](https://kubesuite.org/doc): Access our official documentation to discover features and best practices at KubeSuite Documentation.
 * Feedback and Contributions: We welcome feature requests and bug reports! Share your thoughts to help us improve KubeReport.
 
 ### Community
-We value our community and encourage your participation! Connect with us on LinkedIn or join us on Slack to share your thoughts and collaborate with us.
+We value our community and encourage your participation! Connect with us on [LinkedIn](https://www.linkedin.com/company/kubesuite) and join us on [Slack](https://join.slack.com/t/newworkspace-lnq1467/shared_invite/zt-2rh7j3whw-We_16ybaeK5tNjRXGenX_Q) to share your thoughts and collaborate with us.
