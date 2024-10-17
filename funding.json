@@ -1,63 +1,64 @@
 {
-    "version": "v1.0.0",
-    "entity": {
-      "type": "individual",
-      "role": "owner",
-      "name": "Sachin H R",
-      "email": "sachinhr.ran@gmail.com",
-      "description": "Sachin, the founder of KubeSuite and creator of the KubeReport project, is a seasoned DevOps engineer with deep expertise in Kubernetes, cloud infrastructure, and automation. With a passion for building open-source tools that simplify complex workflows, Sachin developed KubeReport to provide comprehensive reporting solutions for Kubernetes environments, helping organizations optimize performance, ensure security compliance, and gain valuable insights into their clusters. His contributions to the Kubernetes community reflect his commitment to improving operational efficiency and advancing cloud-native technologies.",
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "Sachin H R",
+    "email": "sachinhr.ran@gmail.com",
+    "phone": "",
+    "description": "Sachin, the founder of KubeSuite and creator of the KubeReport project, is a seasoned DevOps engineer with deep expertise in Kubernetes, cloud infrastructure, and automation. With a passion for building open-source tools that simplify complex workflows, Sachin developed KubeReport to provide comprehensive reporting solutions for Kubernetes environments, helping organizations optimize performance, ensure security compliance, and gain valuable insights into their clusters. His contributions to the Kubernetes community reflect his commitment to improving operational efficiency and advancing cloud-native technologies.",
+    "webpageUrl": {
+      "url": "https://github.com/kubesuiteorg/kubesuiteorg/blob/main/funding.json"
+    }
+  },
+  "projects": [
+    {
+      "guid": "kube-report-2024",
+      "name": "KubeReport",
+      "description": "KubeReport (https://github.com/kubesuiteorg/kubereport) is an open-source reporting tool designed to provide real-time insights into Kubernetes clusters, helping teams monitor resource usage, cluster health, and security compliance. It offers customizable reports, supports multiple formats such as PDF and CSV, and generates detailed reports, making it an essential tool for optimizing and managing Kubernetes environments efficiently.",
       "webpageUrl": {
-        "url": "https://kubesuite.org"
-      }
-    },
-    "projects": [
+        "url": "https://github.com/kubesuiteorg/kubesuiteorg/blob/main/.well-known/funding-manifest-urls"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/kubesuiteorg/kubesuiteorg"
+      },
+      "licenses": [
+        "Apache-2.0"
+      ],
+      "tags": [
+        "go",
+        "kubernetes",
+        "kubernetes-report",
+        "kubernetes-cluster-health",
+        "monitoring",
+        "kubesuite",
+        "kubereport"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
       {
-        "guid": "kube-report-2024",
-        "name": "KubeReport",
-        "description": "KubeReport is an open-source reporting tool designed to provide real-time insights into Kubernetes clusters, helping teams monitor resource usage, cluster health, and security compliance. It offers customizable reports, supports multiple formats such as PDF and CSV, and generates detailed reports, making it an essential tool for optimizing and managing Kubernetes environments efficiently.",
-        "webpageUrl": {
-          "url": "https://www.kubesuite.org/doc"
-        },
-        "repositoryUrl": {
-          "url": "https://github.com/kubesuiteorg/kubereport"
-        },
-        "licenses": [
-          "Apache-2.0"
-        ],
-        "tags": [
-          "go",
-          "kubernetes",
-          "kubernetes-report",
-          "kubernetes-cluster-health",
-          "monitoring",
-          "kubesuite",
-          "kubereport"
+        "guid": "buymeacoffee",
+        "type": "bank",
+        "address": "https://buymeacoffee.com/sachinran",
+        "description": "Support the project on Buy Me A Coffee."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "support-monthly",
+        "status": "active",
+        "name": "Monthly Support",
+        "description": "Support the project with a monthly contribution.",
+        "amount": 2000,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "buymeacoffee"
         ]
       }
     ],
-    "funding": {
-      "channels": [
-        {
-          "guid": "buymeacoffee",
-          "type": "bank",
-          "address": "https://buymeacoffee.com/sachinran",
-          "description": "Support the project on Buy Me A Coffee."
-        }
-      ],
-      "plans": [
-        {
-          "guid": "support-monthly",
-          "status": "active",
-          "name": "Monthly Support",
-          "description": "Support the project with a monthly contribution.",
-          "amount": 2000,
-          "currency": "USD",
-          "frequency": "monthly",
-          "channels": [
-            "buymeacoffee"
-          ]
-        }
-      ],
-      "history": []
-    }
+    "history": []
   }
+}
