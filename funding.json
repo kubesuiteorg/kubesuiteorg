@@ -8,7 +8,7 @@
     "phone": "",
     "description": "Sachin, the founder of KubeSuite and creator of the KubeReport project, is a seasoned DevOps engineer with deep expertise in Kubernetes, cloud infrastructure, and automation. With a passion for building open-source tools that simplify complex workflows, Sachin developed KubeReport to provide comprehensive reporting solutions for Kubernetes environments, helping organizations optimize performance, ensure security compliance, and gain valuable insights into their clusters. His contributions to the Kubernetes community reflect his commitment to improving operational efficiency and advancing cloud-native technologies.",
     "webpageUrl": {
-      "url": "https://github.com/kubesuiteorg/kubesuiteorg/blob/main/funding.json"
+      "url": "https://raw.githubusercontent.com/kubesuiteorg/kubesuiteorg/main/funding.json"
     }
   },
   "projects": [
@@ -17,10 +17,10 @@
       "name": "KubeReport",
       "description": "KubeReport (https://github.com/kubesuiteorg/kubereport) is an open-source reporting tool designed to provide real-time insights into Kubernetes clusters, helping teams monitor resource usage, cluster health, and security compliance. It offers customizable reports, supports multiple formats such as PDF and CSV, and generates detailed reports, making it an essential tool for optimizing and managing Kubernetes environments efficiently.",
       "webpageUrl": {
-        "url": "https://github.com/kubesuiteorg/kubesuiteorg/blob/main/.well-known/funding-manifest-urls"
+        "url": "https://raw.githubusercontent.com/kubesuiteorg/kubesuiteorg/main/.well-known/funding-manifest-urls"
       },
       "repositoryUrl": {
-        "url": "https://github.com/kubesuiteorg/kubesuiteorg"
+        "url": "https://raw.githubusercontent.com/kubesuiteorg/kubesuiteorg/main/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "Apache-2.0"
