@@ -18,4 +18,4 @@ Here’s a quick look at our key repositories:
 * Feedback and Contributions: We welcome feature requests and bug reports! Share your thoughts to help us improve KubeReport.
 
 ### Community
-We value our community and encourage your participation! Connect with us on [LinkedIn](https://www.linkedin.com/company/kubesuite) join us on [Slack](https://join.slack.com/t/kubesuite/shared_invite/zt-2rh7j3whw-We_16ybaeK5tNjRXGenX_Q) to share your thoughts and collaborate with us.
+We value our community and encourage your participation! Connect with us on [LinkedIn](https://www.linkedin.com/company/kubesuite) to share your thoughts and collaborate with us.
